@@ -1,7 +1,8 @@
 # List  de  Exerci  Python 
 Olá pessoal!
 
-Estou muito animado em compartilhar com vocês o meu repositório de estudos e listas de exercícios em Python! Este repositório foi criado com o objetivo de ajudar aqueles que estão iniciando seus estudos em Python e também para aqueles que desejam aprimorar seus conhecimentos na linguagem.
+Estou muito animado em compartilhar com vocês o meu repositório de estudos e listas de exercícios em Python! Este repositório foi criado com o objetivo de ajudar aqueles que estão iniciando seus estudos em Python e também para aqueles que desejam aprimorar seus conhecimentos na linguagem
+
 
 Aqui você encontrará uma variedade de exercícios, desde os mais simples até os mais complexos, que abrangem diversos tópicos da linguagem Python. Além disso, você também encontrará explicações detalhadas sobre cada exercício, para que possa entender melhor o que está sendo solicitado e como resolvê-lo.
 
